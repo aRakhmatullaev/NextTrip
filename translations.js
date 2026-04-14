@@ -1,4 +1,4 @@
-// LUXWAY Travel Agency — i18n translations (UZ default)
+// NextTrip Travel Agency — i18n translations (UZ default)
 // Keys are referenced via data-i18n attributes and in app.js (packages, FAQ, etc.)
 
 const TRANSLATIONS = {
@@ -71,7 +71,7 @@ const TRANSLATIONS = {
         europeVisa: "Yevropa (visa bilan)",
       },
       stats: {
-        title: "Luxway ko‘rsatkichlari",
+        title: "NextTrip ko‘rsatkichlari",
         years: "Yillik tajriba",
         yearsValue: "4+",
         rating: "O‘rtacha baho",
@@ -231,7 +231,7 @@ const TRANSLATIONS = {
     whyUs: {
       title: "Nega NextTrip?",
       subtitle:
-        "NextTrip Travel Agency bugungi kunda xalqaro turizm yo‘nalishida faol rivojlanib bormoqda. Kompaniya asoschisi — Yusupova Saboxatxon. Asoschi rahbarligida Luxway mijozlarga xorijiy davlatlarga sayohat qilish bo‘yicha keng turdagi xizmatlarni taqdim etadi. Jumladan, Osiyo va Yevropa davlatlariga tur paketlari, viza xizmatlari, aviachiptalar va mehmonxonalarni bron qilish, hamda safar davomida to‘liq maslahat va yordam ko‘rsatish xizmatlari mavjud.Xalqaro sayohatlar bo‘yicha tajriba, premium servis va hujjatlar bilan ishonchli yondashuv.",
+        "NextTrip Travel Agency bugungi kunda xalqaro turizm yo‘nalishida faol rivojlanib bormoqda. Kompaniya asoschisi — Yusupova Saboxatxon. Asoschi rahbarligida NextTrip mijozlarga xorijiy davlatlarga sayohat qilish bo‘yicha keng turdagi xizmatlarni taqdim etadi. Jumladan, Osiyo va Yevropa davlatlariga tur paketlari, viza xizmatlari, aviachiptalar va mehmonxonalarni bron qilish, hamda safar davomida to‘liq maslahat va yordam ko‘rsatish xizmatlari mavjud.Xalqaro sayohatlar bo‘yicha tajriba, premium servis va hujjatlar bilan ishonchli yondashuv.",
       items: {
         flights: {
           title: "Parvozlar va chipta",
@@ -676,7 +676,7 @@ const TRANSLATIONS = {
         europeVisa: "Европа (с визой)",
       },
       stats: {
-        title: "Показатели Luxway",
+        title: "Показатели NextTrip",
         years: "Опыт работы",
         yearsValue: "4+",
         rating: "Средняя оценка",
@@ -830,9 +830,9 @@ const TRANSLATIONS = {
     },
 
     whyUs: {
-      title: "Почему Luxway?",
+      title: "Почему NextTrip?",
       subtitle:
-        "Туристическое агентство NextTrip Travel Agency на сегодняшний день активно развивается на международном туристическом рынке. Основатель компании — Юсупова Сабохатхон. Под руководством основателя Luxway предлагает широкий спектр услуг для путешествий за границу, включая организацию туров в страны Азии и Европы, визовую поддержку, бронирование авиабилетов и отелей, а также полное сопровождение клиентов на всех этапах поездки.",
+        "Туристическое агентство NextTrip Travel Agency на сегодняшний день активно развивается на международном туристическом рынке. Основатель компании — Юсупова Сабохатхон. Под руководством основателя NextTrip предлагает широкий спектр услуг для путешествий за границу, включая организацию туров в страны Азии и Европы, визовую поддержку, бронирование авиабилетов и отелей, а также полное сопровождение клиентов на всех этапах поездки.",
       items: {
         flights: {
           title: "Перелёты и билеты",
@@ -1272,7 +1272,7 @@ const TRANSLATIONS = {
         europeVisa: "Europe (with visa)",
       },
       stats: {
-        title: "Luxway in numbers",
+        title: "NextTrip in numbers",
         years: "Years of experience",
         yearsValue: "4+",
         rating: "Average rating",
@@ -1430,9 +1430,9 @@ const TRANSLATIONS = {
     },
 
     whyUs: {
-      title: "Why Luxway?",
+      title: "Why NextTrip?",
       subtitle:
-        "NextTrip Travel Agency is steadily growing in the international travel market. The founder of the company is Saboxatxon Yusupova. Under the leadership of the founder, Luxway provides a wide range of international travel services, including tours to Asian and European destinations, visa support, flight and hotel bookings, and full assistance throughout the entire travel process.",
+        "NextTrip Travel Agency is steadily growing in the international travel market. The founder of the company is Saboxatxon Yusupova. Under the leadership of the founder, NextTrip provides a wide range of international travel services, including tours to Asian and European destinations, visa support, flight and hotel bookings, and full assistance throughout the entire travel process.",
       items: {
         flights: {
           title: "Flights & tickets",
