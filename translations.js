@@ -229,7 +229,7 @@ const TRANSLATIONS = {
     },
 
     whyUs: {
-      title: "Nega Luxway?",
+      title: "Nega NextTrip?",
       subtitle:
         "NextTrip Travel Agency bugungi kunda xalqaro turizm yo‘nalishida faol rivojlanib bormoqda. Kompaniya asoschisi — Yusupova Saboxatxon. Asoschi rahbarligida Luxway mijozlarga xorijiy davlatlarga sayohat qilish bo‘yicha keng turdagi xizmatlarni taqdim etadi. Jumladan, Osiyo va Yevropa davlatlariga tur paketlari, viza xizmatlari, aviachiptalar va mehmonxonalarni bron qilish, hamda safar davomida to‘liq maslahat va yordam ko‘rsatish xizmatlari mavjud.Xalqaro sayohatlar bo‘yicha tajriba, premium servis va hujjatlar bilan ishonchli yondashuv.",
       items: {
